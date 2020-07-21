@@ -1,0 +1,33 @@
+[ 
+
+ {
+        "id": 3,
+        "url": "http://127.0.0.1:8000/quiz/Question/3/",
+        "category": 1,
+        "types": 1,
+        "difficult": 1,
+        "question": "satu minggu ada berapa jam?",
+        "correct_answer": "tujuh",
+        "incorrect_answer": [
+            "['sembilan']",
+            "['sepuluh']",
+            "['4']"
+        ]
+ }
+
+ {
+        "id": 4,
+        "url": "http://127.0.0.1:8000/quiz/Question/4/",
+        "category": 1,
+        "types": 1,
+        "difficult": 1,
+        "question": "satu minggu ada berapa detik?",
+        "correct_answer": "tujuh",
+        "incorrect_answer": [
+            "['sembilan']",
+            "['sepuluh']",
+            "['4']"
+        ]
+ }
+
+]
